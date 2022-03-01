@@ -35,7 +35,7 @@ José Luis es un hombre de 42 años encargado de las operaciones de un fondo de 
 Es alguien casado que no puede pasar mucho tiempo con su esposa debido a que su trabajo implica viajar a las diversas plantas de operaciones que tiene la compañía, cosa que trae muchos problemas con su conyugue.
 Es alguien que siempre quiso poner su propio negocio sin embargo las veces que lo intentó en su juventud tuvo resultados negativos debido a su falta de experiencia, ahora el siente que es muy tarde para empezar.
 A pesar de todo el se mantiene positivo pues ve reflejadas sus metas en los clientes con los que trata en el fondo de inversión.
-
+![imagen](https://github.com/DanielVillarreal12/Practicas-Semana1/blob/main/Recursos/Buyer%20Persona.PNG?raw=true)
 
 ## Publico Objetivo 
 ### Perfil demografico 
@@ -49,6 +49,12 @@ A pesar de todo el se mantiene positivo pues ve reflejadas sus metas en los clie
 - No tiene mucha actividad en redes sociales 
 - Utiliza laptop y smratphone
 - Trata con asuntos legales 
+
+## Wireframe
+[Wireframe.bmpr](https://github.com/DanielVillarreal12/Practicas-Semana1/blob/main/Recursos/Abogabot-Wireframe.bmpr)
+
+## Logo
+![Imagen](https://github.com/DanielVillarreal12/Practicas-Semana1/blob/main/Recursos/Abogabot.png?raw=true)
 
 
 
