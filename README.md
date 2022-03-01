@@ -38,16 +38,16 @@ A pesar de todo el se mantiene positivo pues ve reflejadas sus metas en los clie
 
 ## Publico Objetivo 
 ### Perfil demografico 
-Vive en México 
-Habla Español
-Vive en una zona urbana
+- Vive en México 
+- Habla Español
+- Vive en una zona urbana
 
 ### Perfil de Usuario
-Realiza actividad empresarial 
-Esta relacionado con clientes y otros empresarios
-No tiene mucha actividad en redes sociales 
-Utiliza laptop y smratphone
-Trata con asuntos legales 
+- Realiza actividad empresarial 
+- Esta relacionado con clientes y otros empresarios
+- No tiene mucha actividad en redes sociales 
+- Utiliza laptop y smratphone
+- Trata con asuntos legales 
 
 
 
