@@ -17,14 +17,14 @@ Un despacho de abogados contrata nuestros servicios para emplear una solución q
 
 ## Requerimientos técnicos:
 
--Emplear un dashboard.
--Permite al usuario crear una cuenta.
--Permite la entrada de datos mediante un formulario.
--Envía correos al cliente con las actualizaciones de su caso.
--Compatible con dispositivos móviles.
--Permite al cliente ingresar pagos.
--Automatiza la creacion de un documento en formato word.
--Permite al despacho agregar un comentario en cada fase del proceso de demanda.
+- Emplear un dashboard.
+- Permite al usuario crear una cuenta.
+- Permite la entrada de datos mediante un formulario.
+- Envía correos al cliente con las actualizaciones de su caso.
+- Compatible con dispositivos móviles.
+- Permite al cliente ingresar pagos.
+- Automatiza la creacion de un documento en formato word.
+- Permite al despacho agregar un comentario en cada fase del proceso de demanda.
 
 
 
