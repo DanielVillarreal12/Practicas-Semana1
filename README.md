@@ -11,8 +11,7 @@ Un despacho de abogados contrata nuestros servicios para emplear una solución q
 6. El despacho actualiza el proceso de demanda y agrega un comentario en cada paso del proceso.
 7. El cliente recibe correos que indican el avance de su proceso.
 8. La página cuenta con una versión móvil.
-9.
-10.  El despacho sugiere el uso de colores azul marino y blanco, sin embargo, acepta propuestas.
+9.  El despacho sugiere el uso de colores azul marino y blanco, sin embargo, acepta propuestas.
 
 
 
@@ -24,21 +23,21 @@ Un despacho de abogados contrata nuestros servicios para emplear una solución q
 - Envía correos al cliente con las actualizaciones de su caso.
 - Compatible con dispositivos móviles.
 - Permite al cliente ingresar pagos.
-- Automatiza la creacion de un documento en formato word.
+- Automatiza la creación de un documento en formato Word.
 - Permite al despacho agregar un comentario en cada fase del proceso de demanda.
 
 
 
 ## Establecer un Buyer Persona:
 
-José Luis es un hombre de 42 años encargado de las operaciones de un fondo de inversión que tiene como finalidad brindarle apoyo a jóvenes emprendedores con talento y creatividad.
+José Luis es un hombre de 42 años encargado de las operaciones de un fondo de inversión que tiene como finalidad brindarles apoyo a jóvenes emprendedores con talento y creatividad.
 Es alguien casado que no puede pasar mucho tiempo con su esposa debido a que su trabajo implica viajar a las diversas plantas de operaciones que tiene la compañía, cosa que trae muchos problemas con su conyugue.
 Es alguien que siempre quiso poner su propio negocio sin embargo las veces que lo intentó en su juventud tuvo resultados negativos debido a su falta de experiencia, ahora el siente que es muy tarde para empezar.
-A pesar de todo el se mantiene positivo pues ve reflejadas sus metas en los clientes con los que trata en el fondo de inversión.
+A pesar de todo él se mantiene positivo pues ve reflejadas sus metas en los clientes con los que trata en el fondo de inversión.
 ![imagen](https://github.com/DanielVillarreal12/Practicas-Semana1/blob/main/Recursos/Buyer%20Persona.PNG?raw=true)
 
 ## Publico Objetivo 
-### Perfil demografico 
+### Perfil demográfico 
 - Vive en México 
 - Habla Español
 - Vive en una zona urbana
@@ -47,14 +46,15 @@ A pesar de todo el se mantiene positivo pues ve reflejadas sus metas en los clie
 - Realiza actividad empresarial 
 - Esta relacionado con clientes y otros empresarios
 - No tiene mucha actividad en redes sociales 
-- Utiliza laptop y smratphone
+- Utiliza laptop y smartphone
 - Trata con asuntos legales 
 
 ## Wireframe
-[Wireframe.bmpr](https://github.com/DanielVillarreal12/Practicas-Semana1/blob/main/Recursos/Abogabot-Wireframe.bmpr)
+[Puedes ver el wireframe de abogabot aquí!](https://github.com/DanielVillarreal12/Practicas-Semana1/blob/main/Recursos/Abogabot-Wireframe.pdf)
 
 ## Logo
 ![Imagen](https://github.com/DanielVillarreal12/Practicas-Semana1/blob/main/Recursos/Abogabot.png?raw=true)
+
 
 
 
