@@ -58,7 +58,7 @@ Wireframe de Abogabot para la versión móvil.
 
 ## Ui
 Modelo de Ui para la aplicacción de abogabot en su versión móvil.
-![Imagen](https://github.com/Dvashe/Practicas-Semana1/blob/main/Recursos/Abogabot-Movil-wireframe.png?raw=true)
+![Imagen](https://github.com/Dvashe/Proyecto-Abogabot-/blob/main/Recursos/UI%20Abogabot.png?raw=true)
 
 
 
