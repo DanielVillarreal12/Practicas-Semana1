@@ -50,10 +50,15 @@ A pesar de todo él se mantiene positivo pues ve reflejadas sus metas en los cli
 - Trata con asuntos legales 
 
 ## Wireframe
-[Puedes ver el wireframe de abogabot aquí!](https://github.com/DanielVillarreal12/Practicas-Semana1/blob/main/Recursos/Abogabot-Wireframe.pdf)
+Wireframe de Abogabot para la versión móvil.
+![Imagen](https://github.com/Dvashe/Practicas-Semana1/blob/main/Recursos/Abogabot-Movil-wireframe.png?raw=true)
 
 ## Logo
 ![Imagen](https://github.com/Dvashe/Practicas-Semana1/blob/main/Recursos/Logo%20Abogabot.PNG?raw=true)
+
+## Ui
+Modelo de Ui para la aplicacción de abogabot en su versión móvil.
+![Imagen](https://github.com/Dvashe/Practicas-Semana1/blob/main/Recursos/Abogabot-Movil-wireframe.png?raw=true)
 
 
 
