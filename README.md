@@ -53,7 +53,7 @@ A pesar de todo él se mantiene positivo pues ve reflejadas sus metas en los cli
 [Puedes ver el wireframe de abogabot aquí!](https://github.com/DanielVillarreal12/Practicas-Semana1/blob/main/Recursos/Abogabot-Wireframe.pdf)
 
 ## Logo
-![Imagen](https://github.com/DanielVillarreal12/Practicas-Semana1/blob/main/Recursos/Abogabot.png?raw=true)
+![Imagen](https://github.com/Dvashe/Practicas-Semana1/blob/main/Recursos/Logo%20Abogabot.PNG?raw=true)
 
 
 
